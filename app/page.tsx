@@ -155,7 +155,7 @@ export default function Home() {
       <div className="relative z-10 w-full max-w-2xl p-6 md:p-8 rounded-3xl shadow-2xl bg-white bg-opacity-80 backdrop-filter backdrop-blur-lg border border-gray-200">
         <div className="  flex flex-col items-center mb-4 ">
           <h1 className="text-3xl md:text-4xl font-extrabold text-center  text-gray-800">
-            NOORIX
+            CORTEX
           </h1>
           <p className="text-xl font-medium mb-3 text-gray-700">
             Content Generator ✨
