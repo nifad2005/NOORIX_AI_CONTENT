@@ -52,11 +52,12 @@ export default function Home() {
 
     1. The content should be SEO friendly.
     2. Don't generate any other text except requested output (title or description or hashtags).
-    3. If it's a title, then make it like a title for YouTube or Facebook content or blog post and can be slightly question type. 
+    3. If it's a title, then make it like a title for YouTube or Facebook content or blog post, Make the title Interective, informative, Out of the box content. 
     4. If it's hashtags, then make it like hashtags for YouTube or Facebook content or blog post.
     5. Follow instructions given by the user.
     6. Don't make hastag in description
     7. Don't generate * or | or _
+    
   `;
 
   const handleGenerateOutput = async () => {
