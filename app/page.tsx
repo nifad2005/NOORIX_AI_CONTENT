@@ -56,6 +56,7 @@ export default function Home() {
     4. If it's hashtags, then make it like hashtags for YouTube or Facebook content or blog post.
     5. Follow instructions given by the user.
     6. Don't make hastag in description
+    7. Don't generate * or | or _
   `;
 
   const handleGenerateOutput = async () => {
